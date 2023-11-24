@@ -1,0 +1,136 @@
+body {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+
+.nav_bar {
+  width: 100%;
+  height: 100%;
+  background: white;
+  display: flex;
+  align-items: center;
+}
+
+.links {
+  width: 436px;
+  height: 48px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 24px;
+  display: flex;
+  margin-top: 26px;
+  margin-bottom: 42.3px;
+  margin-left: 100px;
+  margin-right: auto;
+}
+
+.text1 {
+  width: 83px;
+  color: var(--gray3, rgba(64, 64, 64, 0.8));
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 48px; /* 300% */
+  letter-spacing: -0.32px;
+}
+
+.right_part_nav {
+  width: 238px;
+  height: 46px;
+  flex-shrink: 0;
+  text-align: right;
+  align-items: center;
+  display: flex;
+  margin-top: 27px;
+  margin-bottom: 43.3px;
+  margin-left: auto;
+  margin-right: 120px;
+}
+
+.group5 {
+  width: 196px;
+  height: 46px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+
+.register {
+  display: flex;
+  width: 64px;
+  height: 20px;
+  border-width: 5px;
+  border-radius: 5px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  justify-content: center;
+  background: #96c67f;
+  align-items: center;
+  color: #fff;
+  border-style: hidden;
+  font-family: Open Sans;
+}
+
+.login {
+  width: 42px;
+  height: 22px;
+  display: flex;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  align-items: flex-start;
+  gap: 18px;
+  border-width: 3px;
+  border-radius: 3px;
+  color: #96c67f;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.search {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  margin-right: 214;
+  gap: 18px;
+}
+
+.left_part_nav {
+  width: 210px;
+  height: 45px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 32.8px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: left;
+  display: flex;
+  margin-top: 27px;
+  margin-bottom: 44.3px;
+  margin-left: 119px;
+}
+
+.eclipse1 {
+  width: 6px;
+  height: 6px;
+  margin-left: 22px;
+  margin-bottom: 6px;
+  position: absolute;
+}
+
+.eclipse2 {
+  margin-left: 138px;
+  margin-bottom: 6px;
+  position: absolute;
+}
