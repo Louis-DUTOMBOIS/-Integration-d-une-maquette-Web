@@ -332,3 +332,245 @@ body {
   width: 20px;
   height: 20px;
 }
+
+.section2 {
+  width: 1272px;
+  height: 413px;
+  flex-shrink: 0;
+  position: relative;
+  margin-left: 120px;
+  margin-top: 658px;
+}
+
+.card1 {
+  width: 303px;
+  height: 295px;
+  flex-shrink: 0;
+  position: relative;
+}
+
+.rec2 {
+  width: 303px;
+  height: 257px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #f8f8f8;
+  position: absolute;
+  top: 38px;
+}
+
+.text1_card1 {
+  width: 216px;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  left: 28px;
+  top: 116px;
+  position: absolute;
+  word-wrap: break-word;
+}
+
+.text2_card1 {
+  width: 243px;
+  height: 96px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px; /* 150% */
+  left: 30px;
+  top: 169px;
+  position: absolute;
+  word-wrap: break-word;
+}
+
+.group190 {
+  width: 76px;
+  height: 76px;
+  flex-shrink: 0;
+  left: 28px;
+  top: 0px;
+  position: absolute;
+}
+
+.rec3 {
+  width: 76px;
+  height: 76px;
+  border-radius: 20px;
+  background: #96c67f;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.svgBook {
+  width: 44px;
+  height: 44px;
+  left: 16px;
+  top: 16px;
+  position: absolute;
+}
+
+.card2 {
+  width: 303px;
+  height: 295px;
+  flex-shrink: 0;
+  position: absolute;
+  left: 646px;
+  top: 0px;
+}
+
+.text1_card2 {
+  width: 216px;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  left: 28px;
+  top: 116px;
+  position: absolute;
+  word-wrap: break-word;
+}
+
+.text2_card2 {
+  width: 243px;
+  height: 96px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px; /* 150% */
+  left: 30px;
+  top: 169px;
+  position: absolute;
+  word-wrap: break-word;
+}
+
+.group192 {
+  width: 76px;
+  height: 76px;
+  flex-shrink: 0;
+  left: 28px;
+  top: 0px;
+  position: absolute;
+}
+
+.rec3_card2 {
+  width: 76px;
+  height: 76px;
+  border-radius: 20px;
+  background: #96c67f;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.svgHomme {
+  width: 44px;
+  height: 44px;
+  left: 16px;
+  top: 16px;
+  position: absolute;
+}
+
+.card3 {
+  width: 303px;
+  height: 295px;
+  flex-shrink: 0;
+  position: absolute;
+  left: 323px;
+  top: 118px;
+}
+
+.text1_card3 {
+  width: 216px;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  left: 28px;
+  top: 116px;
+  position: absolute;
+  word-wrap: break-word;
+}
+
+.text2_card3 {
+  width: 243px;
+  height: 96px;
+  flex-shrink: 0;
+  color: #000;
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 24px; /* 150% */
+  left: 30px;
+  top: 169px;
+  position: absolute;
+  word-wrap: break-word;
+}
+
+.group191 {
+  width: 76px;
+  height: 76px;
+  flex-shrink: 0;
+  left: 28px;
+  top: 0px;
+  position: absolute;
+}
+
+.rec4 {
+  width: 76px;
+  height: 76px;
+  border-radius: 20px;
+  background: #f8f8f8;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.svgSac {
+  width: 44px;
+  height: 44px;
+  left: 16px;
+  top: 16px;
+  position: absolute;
+}
+
+.rec5 {
+  width: 303px;
+  height: 257px;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background: #96c67f;
+  position: absolute;
+  top: 38px;
+}
+
+.svgHorloge {
+  width: 44px;
+  height: 44px;
+  left: 16px;
+  top: 16px;
+  position: absolute;
+}
+
+.card4 {
+  width: 303px;
+  height: 295px;
+  flex-shrink: 0;
+  position: absolute;
+  left: 969px;
+  top: 118px;
+}
