@@ -1001,11 +1001,11 @@ footer p {
   }
 
   .checkbox:checked ~ .nav_bar {
-    width: 428px;
+    width: 100%;
     margin-top: 0px;
     margin-bottom: 0px;
     flex-direction: column;
-    height: 900px;
+    height: 100%;
   }
 
   .checkbox:checked ~ .right_part_nav {
